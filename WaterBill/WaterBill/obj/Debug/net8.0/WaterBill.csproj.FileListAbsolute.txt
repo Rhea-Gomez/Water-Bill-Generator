@@ -1,0 +1,14 @@
+D:\Training\Day3\WaterBill\WaterBill\bin\Debug\net8.0\WaterBill.exe
+D:\Training\Day3\WaterBill\WaterBill\bin\Debug\net8.0\WaterBill.deps.json
+D:\Training\Day3\WaterBill\WaterBill\bin\Debug\net8.0\WaterBill.runtimeconfig.json
+D:\Training\Day3\WaterBill\WaterBill\bin\Debug\net8.0\WaterBill.dll
+D:\Training\Day3\WaterBill\WaterBill\bin\Debug\net8.0\WaterBill.pdb
+D:\Training\Day3\WaterBill\WaterBill\obj\Debug\net8.0\WaterBill.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day3\WaterBill\WaterBill\obj\Debug\net8.0\WaterBill.AssemblyInfoInputs.cache
+D:\Training\Day3\WaterBill\WaterBill\obj\Debug\net8.0\WaterBill.AssemblyInfo.cs
+D:\Training\Day3\WaterBill\WaterBill\obj\Debug\net8.0\WaterBill.csproj.CoreCompileInputs.cache
+D:\Training\Day3\WaterBill\WaterBill\obj\Debug\net8.0\WaterBill.dll
+D:\Training\Day3\WaterBill\WaterBill\obj\Debug\net8.0\refint\WaterBill.dll
+D:\Training\Day3\WaterBill\WaterBill\obj\Debug\net8.0\WaterBill.pdb
+D:\Training\Day3\WaterBill\WaterBill\obj\Debug\net8.0\WaterBill.genruntimeconfig.cache
+D:\Training\Day3\WaterBill\WaterBill\obj\Debug\net8.0\ref\WaterBill.dll
